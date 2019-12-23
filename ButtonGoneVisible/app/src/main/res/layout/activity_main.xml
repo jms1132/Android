@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/holo_purple">
+
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_dark"
+        android:text="@string/button1_name"
+        android:textColor="@color/btn_white_color"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button2_name"
+        android:textColor="@color/btn_white_color"
+        android:textSize="24sp"
+        android:background="@android:color/holo_orange_dark" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_orange_light"
+        android:text="@string/button3_name"
+        android:textColor="@color/btn_white_color"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button4_name"
+        android:textColor="@color/btn_white_color"
+        android:textSize="24sp"
+        android:background="@android:color/holo_green_light" />
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button5_name"
+        android:textSize="24sp"
+        android:background="@drawable/button_color_state"
+        android:textColor="@color/btn_blue_color" />
+
+</LinearLayout>

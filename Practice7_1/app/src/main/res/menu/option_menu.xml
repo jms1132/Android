@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/imgRotation"
+        android:title="그림 회전" />
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+
+            android:title="쿼카"></item>
+        <item
+            android:id="@+id/item2"
+            android:title="웜뱃"></item>
+        <item
+            android:id="@+id/item3"
+            android:title="왈라비"></item>
+    </group>
+
+</menu>

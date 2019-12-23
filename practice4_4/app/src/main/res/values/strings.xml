@@ -1,0 +1,16 @@
+
+<resources>
+
+    <string name="app_name">안드로이드 사진 보기</string>
+    <string name="txt1">선택을 시작하겠습니까?</string>
+    <string name="swc1">시작함</string>
+    <string name="txt2">좋아하는 안드로이드 버전은?</string>
+    <string name="rdo1">롤리팝(5.0)</string>
+    <string name="rdo2">마시멜로(6.0)</string>
+    <string name="rdo3">누가(7.0)</string>
+    <string name="btn1">종료</string>
+    <string name="btn2">처음부터</string>
+
+
+
+</resources>
